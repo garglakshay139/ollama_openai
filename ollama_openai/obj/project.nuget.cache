@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "VAQUBjlzV80=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gauravgarg\\source\\repos\\ollama_openai\\ollama_openai\\ollama_openai.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\csharptojsonschema\\3.10.1\\csharptojsonschema.3.10.1.nupkg.sha512",
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512",
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\markdig\\0.41.3\\markdig.0.41.3.nupkg.sha512",
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\ollama\\1.15.1-dev.28\\ollama.1.15.1-dev.28.nupkg.sha512",
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\system.io.pipelines\\9.0.0\\system.io.pipelines.9.0.0.nupkg.sha512",
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\system.text.encodings.web\\9.0.0\\system.text.encodings.web.9.0.0.nupkg.sha512",
+    "C:\\Users\\gauravgarg\\.nuget\\packages\\system.text.json\\9.0.0\\system.text.json.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ollama_openai", "ollama_openai\ollama_openai.csproj", "{77A6BE12-41F3-4C2C-B02A-348D05711CAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A6BE12-41F3-4C2C-B02A-348D05711CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A6BE12-41F3-4C2C-B02A-348D05711CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A6BE12-41F3-4C2C-B02A-348D05711CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A6BE12-41F3-4C2C-B02A-348D05711CAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1175AFDD-B927-4B87-9DF0-E70C2B249ACC}
+	EndGlobalSection
+EndGlobal
